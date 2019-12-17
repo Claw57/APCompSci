@@ -1,36 +1,9 @@
-//© A+ Computer Science  -  www.apluscompsci.com
-//Name - Preethi Ramesh
-//Date -
-//Class - 
-//Lab  -
-
 import java.util.Arrays;
-
-// Lab Chapter 14 - #2  ArrayFunHouseTwo    2017
-
-// Uses files ArrayFunHouseTwoRunner.java and ArrayFunHouseTwo.java
-
-// HINT:  Look at sample arrays to understand what you need to do in your code.
-//		  DRAW PICTURES and walk through what you need to do.
-//        If you don't know what needs to be done, you certainly cannot give
-//        instructions to the computer to tell it what to do.
-
 
 public class ArrayFunHouseTwoRunner
 {
 	public static void main( String args[] )
 	{
-		System.out.println("Lab Chapter 14 - #2  ArrayFunHouseTwo    2017");
-		System.out.println();
-		System.out.println();
-		
-		// ***** fill in your name
-		System.out.println("My name is Preethi Ramesh");
-		System.out.println();		
-		System.out.println();		
-
-
-		// the main method has been finished for you
 
 		int[] one = {1,2,3,4,5,6,7,8,9,10};
 		int[] two = {1,2,3,9,11,20,30};
